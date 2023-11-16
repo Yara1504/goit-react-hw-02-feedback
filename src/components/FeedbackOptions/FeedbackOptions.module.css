@@ -1,0 +1,18 @@
+.listFeedback {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.btnFeedback {
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(242, 255, 0);
+}
+.btnFeedback:hover {
+    width: 65px;
+    height: 65px;
+    background-color: green;
+}
